@@ -1,0 +1,21 @@
+{
+  "name": "tbu/test",
+  "description": "The description test TBU",
+  "minimum-stability": "stable",
+  "keywords": ["Test", "TBU"],
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Brandi",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Fk": "src/"
+    }
+  }
+}
