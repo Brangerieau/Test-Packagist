@@ -1,6 +1,7 @@
 {
   "name": "tbu/test-packagist",
   "description": "The description test TBU",
+  "minimum-stability": "stable",
   "keywords": ["Test", "TBU"],
   "license": "proprietary",
   "authors": [
@@ -10,7 +11,7 @@
     }
   ],
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.0.0"
   },
   "autoload": {
     "psr-0": {
