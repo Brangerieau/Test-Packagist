@@ -1,7 +1,7 @@
 {
   "name": "tbu/test-packagist",
   "description": "The description test TBU",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "keywords": ["Test", "TBU"],
   "license": "proprietary",
   "authors": [
